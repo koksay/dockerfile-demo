@@ -1,3 +1,1 @@
 # Dockerfile Demo
-
-Graceful shutdown
