@@ -4,4 +4,4 @@ Graceful shutdown demo
 
 - A new hope
 
-hello crane!!!
+hello crane
