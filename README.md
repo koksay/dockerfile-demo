@@ -6,4 +6,3 @@ Graceful shutdown demo
 
 hello crane
 
-insecure
